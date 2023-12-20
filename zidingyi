@@ -1,2 +1,14 @@
-DOMAIN,bard.google.com
-DOMAIN,bing.com
+# 本地/局域网地址
+# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
+
+# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
+DOMAIN-SUFFIX,acl4.ssr
+
+# 个人配置
+IP-CIDR,10.168.0.0/16
+IP-CIDR,10.27.14.170/16
+IP-CIDR,10.28.4.197/16
+DOMAIN-SUFFIX,corpautohome.com
+DOMAIN-SUFFIX,autoimg.cn
+DOMAIN-SUFFIX,che168.com
+IP-CIDR,10.60.12.0/24
