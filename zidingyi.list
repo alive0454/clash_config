@@ -16,5 +16,5 @@ DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,antdv.com
 DOMAIN-SUFFIX,cn.vuejs.org
-DOMAIN-KEYWORD,m-team
-DOMAIN-KEYWORD,hdfans
+#DOMAIN-KEYWORD,m-team
+#DOMAIN-KEYWORD,hdfans
