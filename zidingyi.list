@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,antdv.com
 DOMAIN-SUFFIX,cn.vuejs.org
 #DOMAIN-KEYWORD,m-team
 #DOMAIN-KEYWORD,hdfans
+PROCESS-NAME,Transmission
+PROCESS-NAME,transmission
