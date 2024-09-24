@@ -16,8 +16,11 @@ DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,antdv.com
 DOMAIN-SUFFIX,cn.vuejs.org
-#DOMAIN-KEYWORD,m-team
-#DOMAIN-KEYWORD,hdfans
 PROCESS-NAME,Transmission
 PROCESS-NAME,transmission
 DOMAIN-SUFFIX,csdn.net
+DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,hdfans
+DOMAIN-KEYWORD,hhanclub
+SRC-PORT,51413
+DST-PORT,51413
