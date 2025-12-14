@@ -3,15 +3,8 @@
 
 # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
 DOMAIN-SUFFIX,acl4.ssr
-
+# zidingyi.list为不走代理配置  zidingyi2.list为走代理配置
 # 个人配置
-IP-CIDR,10.168.0.0/16
-IP-CIDR,10.27.14.170/16
-IP-CIDR,10.28.4.197/16
-DOMAIN-SUFFIX,corpautohome.com
-DOMAIN-SUFFIX,autoimg.cn
-DOMAIN-SUFFIX,che168.com
-IP-CIDR,10.60.12.0/24
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,antdv.com
