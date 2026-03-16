@@ -5,7 +5,7 @@
 DOMAIN-SUFFIX,acl4.ssr
 # zidingyi3.list claude
 # 个人配置
-DIMAIL-KEYWORD,anthropic
+DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,sentry.io
