@@ -1,3 +1,7 @@
 DOMAIN,image.tmdb.org
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,midjourney.com
+DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-KEYWORD,claude
