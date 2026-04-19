@@ -21,3 +21,5 @@ DST-PORT,51413
 DOMAIN-KEYWORD,hdfans
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,xiaomi.com
+#白月光订阅链接域名，设置不走代理
+DOMAIN-SUFFIX,qinyues4.cc
